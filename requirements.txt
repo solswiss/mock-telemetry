@@ -1,0 +1,5 @@
+friendlywords
+numpy
+pandas
+streamlit
+geopy
